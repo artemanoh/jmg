@@ -1,0 +1,47 @@
+.game-title {
+    color: rgb(51, 227, 77);
+    font-style: oblique;
+    font-size: xx-large;
+}
+
+.game-list {
+    font-size: large;
+    color: brown;
+    
+}
+
+.omg-yg {
+    font-size: xx-large;
+    cursor: pointer;
+    color: royalblue;
+    text-shadow: -3px -3px 5px skyblue;
+    text-transform: uppercase;
+    text-align: center;
+}
+.omg-yg:hover{
+    color: red;
+}
+.mine-title{
+    font-size: larger;
+    color: brown;
+    font-style: oblique;
+}
+
+.class-title{
+    color: blue;
+    font-size: larger;
+    font-style: inherit;
+}
+
+.omg-list{
+    color: gray;
+    font-size: large;
+    font-style: unset;
+}
+
+
+.mine-list{
+    color: red;
+    font-size: large;
+    font-style: italic;
+}
